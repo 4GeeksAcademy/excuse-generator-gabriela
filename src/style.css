@@ -3,3 +3,11 @@
 body{
     background: white;
 }
+.header{
+    text-align: center;
+}
+#excuse{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 1000;
+}
